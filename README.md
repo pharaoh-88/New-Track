@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/basic-dns
+https://roadmap.sh/projects/simple-monitoring-dashboard
