@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/ec2-instance
+https://roadmap.sh/projects/configuration-management
